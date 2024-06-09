@@ -25,14 +25,14 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4" data-aos="fade-up">The CRM that organizes sales, streamlines operations, maximizes growth</h2>
+            <h2 className="h2 mb-4" data-aos="fade-up">Empower your business with our all-in-one online shop and management solution.</h2>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Full access. No credit card required</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://demo.podtree.ca">Free Demo</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://demo.podtree.ca">E-Shop Demo</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="#0">Learn more</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" href="https://admin.podtree.ca">Admin Demo</a>
               </div>
             </div>
           </div>

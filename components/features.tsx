@@ -7,7 +7,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">The majority of customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Our CRM software offers clarity by mapping out your unique business processes step-by-step.</p>
+            <p className="text-xl text-gray-400">Our E-Commerce software offers clarity by mapping out your unique business processes step-by-step.</p>
           </div>
 
           {/* Items */}
@@ -59,7 +59,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Calendar Integration</h4>
-              <p className="text-lg text-gray-400 text-center">Seamlessly integrate with calendar applications to synchronize appointments, meetings, and tasks. View and manage your schedule directly within the CRM, ensuring that important events are never missed and that your team stays organized and productive.</p>
+              <p className="text-lg text-gray-400 text-center">Seamlessly integrate with calendar applications to synchronize appointments, meetings, and tasks. View and manage your schedule directly within the E-Commerce, ensuring that important events are never missed and that your team stays organized and productive.</p>
             </div>
 
             {/* 5th item */}
@@ -86,7 +86,7 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Customized and Integration</h4>
-              <p className="text-lg text-gray-400 text-center">Tailor the CRM to fit your unique business needs with customizable fields, workflows, and automation rules. Integrate with other business tools and platforms, such as marketing automation software or accounting systems, to create a seamless and efficient workflow across your organization.</p>
+              <p className="text-lg text-gray-400 text-center">Tailor the E-Commerce to fit your unique business needs with customizable fields, workflows, and automation rules. Integrate with other business tools and platforms, such as marketing automation software or accounting systems, to create a seamless and efficient workflow across your organization.</p>
             </div>
 
           </div>
